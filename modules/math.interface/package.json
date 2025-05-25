@@ -1,0 +1,13 @@
+{
+  "name": "math.interface",
+  "version": "0.1.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0",
+    "typescript-sdk": "*",
+    "zod": "^3.22.2"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.4"
+  }
+}
